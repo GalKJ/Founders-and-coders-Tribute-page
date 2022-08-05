@@ -2,11 +2,6 @@ body {
     padding: 3% 10% 3% 10%;
     background-color: #fefee1;
     text-align: center;
-    
-}
-
-.beeDayDiv {
-    
 }
 
 .b {
@@ -19,22 +14,11 @@ body {
 .factors {
     margin-bottom: 0px;
 }
-.dying {
-    
-}
-
-h1 {
-    
-      
-}
-
-h2 {
-    
-}
 
 ul {
     display: inline-block;
     text-align: start;
+    list-style-type: circle;
 }
 
 .b2 {
@@ -43,8 +27,6 @@ ul {
 .e2 {
     color:hsl(48, 69%, 50%);
 }
-
-
 
 .bybee {
     display: block;
